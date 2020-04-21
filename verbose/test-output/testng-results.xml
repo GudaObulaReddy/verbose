@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FB test suit" duration-ms="37492" started-at="2020-04-15T17:06:09 IST" finished-at="2020-04-15T17:06:47 IST">
+    <groups>
+    </groups>
+    <test name="Fb title testing" duration-ms="37492" started-at="2020-04-15T17:06:09 IST" finished-at="2020-04-15T17:06:47 IST">
+      <class name="verbose.verbose.FBVerboseTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:verbose.verbose.FBVerboseTest@1efed156]" name="setUp" is-config="true" duration-ms="11396" started-at="2020-04-15T17:06:09 IST" finished-at="2020-04-15T17:06:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FBTitleTest1()[pri:0, instance:verbose.verbose.FBVerboseTest@1efed156]" name="FBTitleTest1" duration-ms="21" started-at="2020-04-15T17:06:21 IST" finished-at="2020-04-15T17:06:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBTitleTest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:verbose.verbose.FBVerboseTest@1efed156]" name="tearDown" is-config="true" duration-ms="660" started-at="2020-04-15T17:06:21 IST" finished-at="2020-04-15T17:06:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:verbose.verbose.FBVerboseTest@1efed156]" name="setUp" is-config="true" duration-ms="12552" started-at="2020-04-15T17:06:21 IST" finished-at="2020-04-15T17:06:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FBTitleTest2()[pri:0, instance:verbose.verbose.FBVerboseTest@1efed156]" name="FBTitleTest2" duration-ms="9" started-at="2020-04-15T17:06:34 IST" finished-at="2020-04-15T17:06:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBTitleTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:verbose.verbose.FBVerboseTest@1efed156]" name="tearDown" is-config="true" duration-ms="702" started-at="2020-04-15T17:06:34 IST" finished-at="2020-04-15T17:06:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:verbose.verbose.FBVerboseTest@1efed156]" name="setUp" is-config="true" duration-ms="11320" started-at="2020-04-15T17:06:35 IST" finished-at="2020-04-15T17:06:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FBTitleTest3()[pri:0, instance:verbose.verbose.FBVerboseTest@1efed156]" name="FBTitleTest3" duration-ms="16" started-at="2020-04-15T17:06:46 IST" finished-at="2020-04-15T17:06:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBTitleTest3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:verbose.verbose.FBVerboseTest@1efed156]" name="tearDown" is-config="true" duration-ms="772" started-at="2020-04-15T17:06:46 IST" finished-at="2020-04-15T17:06:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- verbose.verbose.FBVerboseTest -->
+    </test> <!-- Fb title testing -->
+  </suite> <!-- FB test suit -->
+</testng-results>
